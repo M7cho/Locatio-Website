@@ -1,0 +1,68 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #091d5fd5;
+    padding: 30px;
+  }
+  
+  .logo {
+    margin-right: 10px;
+  }
+  
+  .navbar-buttons {
+    display: flex;
+  }
+  
+  .navbar-button {
+    margin-right: 5px;
+    width: 150px; /* Adjust the width to your preference */
+    height: 40px; /* Adjust the height to your preference */
+    background-color: #00000000; /* Change the button background color */
+    color: #ffffff; /* Change the button text color */
+    border: none;
+    border-radius: 0px; 
+    font-size: 16px;
+  }
+  
+  .navbar-button:hover {
+    width: 150px; 
+    height: 40px;
+    background-color: #c2bcbc65; /* Change the button background color on hover */
+    color: #ffffff; /* Change the button text color on hover */
+    transform: scale(1.05);
+  }
+  
+  .content {
+    background-image: url('./locatiobckg.jpg'); /* Replace with the path to your background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+  } 
+  
+  .helpbar {
+    background-color: #091d5fd5;
+    color: #ffffff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  .helpbar-item {
+    flex: 1;
+    margin-right: 10px; 
+  }
+  
+  .helpbar h4 {
+    margin-bottom: 0px;
+    margin-left: 170px;
+  }
+  
+  .helpbar p {
+    margin: 0; 
+    margin-left: 170px;
+  }
