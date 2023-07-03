@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/locatioweb/static/css/main.e5cfb7a7.css",
+    "main.js": "/locatioweb/static/js/main.d4d3696b.js",
+    "static/js/787.d98e4bd6.chunk.js": "/locatioweb/static/js/787.d98e4bd6.chunk.js",
+    "static/media/locatiobckg.jpg": "/locatioweb/static/media/locatiobckg.7908653d31df95f386f7.jpg",
+    "index.html": "/locatioweb/index.html",
+    "main.e5cfb7a7.css.map": "/locatioweb/static/css/main.e5cfb7a7.css.map",
+    "main.d4d3696b.js.map": "/locatioweb/static/js/main.d4d3696b.js.map",
+    "787.d98e4bd6.chunk.js.map": "/locatioweb/static/js/787.d98e4bd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5cfb7a7.css",
+    "static/js/main.d4d3696b.js"
+  ]
+}
