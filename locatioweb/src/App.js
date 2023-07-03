@@ -19,8 +19,6 @@ function App() {
           <button className="navbar-button">Reviews</button>
         </div>
       </nav>
-
-      {/* About Locatio Inc */}
       <section className="about-section">
         <div className="about-content">
           <h2>About Locatio Inc</h2>
@@ -31,13 +29,8 @@ function App() {
           </p>
         </div>
       </section>
-
-      {/* Rest of your homepage content */}
       <div className="content">
-        {/* Your homepage content goes here */}
       </div>
-
-      {/* Helpbar */}
       <div className="helpbar">
         <div className="helpbar-item">
           <h4>Contact Information:</h4>
