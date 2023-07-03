@@ -19,13 +19,8 @@ function App() {
           <button className="navbar-button">Reviews</button>
         </div>
       </nav>
-
-      {/* Rest of your homepage content */}
       <div className="content">
-        {/* Your homepage content goes here */}
       </div>
-
-      {/* Helpbar */}
       <div className="helpbar">
         <div className="helpbar-item">
           <h4>Contact Information:</h4>
